@@ -1,0 +1,6 @@
+TransactionID,CustomerName,ProductName,UnitPrice,Quantity,TotalAmount,TransactionDate
+1001,Rahul,Wireless Mouse,800,2,1600,2026-10-21 21:20:05
+1002,Amit,Laptop,55000,1,55000,2026-10-21 21:20:05
+1003,Sujata,Wireless Mouse,800,3,2400,2026-10-21 21:20:05
+1004,Priya,Laptop,55000,3,165000,2026-10-21 21:20:05
+1005,Rahul,Headphones,3000,2,6000,2026-10-21 21:20:05
