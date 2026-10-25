@@ -9,10 +9,10 @@ BUCKET_NAME = "sujata-sales-data-2026"  # Replace with your actual S3 bucket nam
 FILE_NAME = "sales_data.csv"                  # The CSV file stored in your S3 bucket
 
 # AWS RDS PostgreSQL Database Details
-HOST_ENDPOINT = "sujata-sales-db.cxckcges0tns.ap-southeast-2.rds.amazonaws.com"
+HOST_ENDPOINT = "YOUR_RDS_ENDPOINT_HERE"
 DB_NAME = "postgres"
 USER = "postgres"
-PASSWORD = "SujataCloud2026"
+PASSWORD = "YOUR_DB_PASSWORD_HERE"
 PORT = "5432"
 
 try:
