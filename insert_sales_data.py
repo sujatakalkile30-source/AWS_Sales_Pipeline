@@ -1,10 +1,10 @@
 import psycopg2
 
 # RDS Connection Details
-HOST_ENDPOINT = "sujata-sales-db.cxckcges0tns.ap-southeast-2.rds.amazonaws.com"
+HOST_ENDPOINT = "your-rds-endpoint"
 DB_NAME = "postgres"
 USER = "postgres"
-PASSWORD = "SujataCloud2026"
+PASSWORD = "Sujata"
 PORT = "5432"
 
 try:
